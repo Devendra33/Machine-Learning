@@ -1,4 +1,4 @@
-# project: Best Regressiion Model Selection.
+# project: Best Regression Model Selection.
 --> that gives the best linear model suitable for data set.
 
 --> works only when the data set is preprocessed.
